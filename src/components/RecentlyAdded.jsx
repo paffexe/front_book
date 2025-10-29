@@ -27,7 +27,7 @@ const RecentlyAdded = () => {
                     {item.rating}
                   </span>
                 </div>
-                <div className="flex">
+                <div className="flex gap-4">
                   <img src={headphone} alt="" />
                   <img src={book} alt="" />
                 </div>
