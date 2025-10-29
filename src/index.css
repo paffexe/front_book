@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+h2{
+  color: #11142d;
+}
+
+.container {
+  max-width: 1290px;
+  width: 100%;
+  gap: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 75px;
+  padding-right: 75px;
+}
